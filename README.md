@@ -90,3 +90,4 @@ This project relates to the following topics:
 - openclaw-skills
 
 Thank you for checking out awesome-openclaw-skills! We look forward to seeing how you use these skills to enhance your OpenClaw experience.
+- [tubeify](https://clawskills.sh/skills/esokullu-tubeify) - AI video editor for YouTube — removes pauses, filler words, and dead air automatically via API
