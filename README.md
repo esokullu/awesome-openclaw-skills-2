@@ -90,3 +90,4 @@ This project relates to the following topics:
 - openclaw-skills
 
 Thank you for checking out awesome-openclaw-skills! We look forward to seeing how you use these skills to enhance your OpenClaw experience.
+- [lobsterdomains](https://clawskills.sh/skills/esokullu-lobsterdomains) - Register ICANN domains with crypto payments (USDC/USDT/ETH/BTC) via API, built for AI agents
